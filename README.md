@@ -7,17 +7,12 @@ For the final project I decided to develop in C a game very well known among chi
 ### Technical description:
 The program was developed in C in the only file present, tic-tac-toe.c, where we can find other functions in addition to the main:
 
-validSymbol which checks that the inserted symbol is correct
-
-clear which clears the terminal of what was written
-
-printNumberedGrid which prints the numbered grid
-
-printGrid which prints the grid with the symbols entered by the players
-
-checkWin which at each turn checks if a player has won
-
-play the main function that calls all the functions described above, to manage the game
+- validSymbol which checks that the inserted symbol is correct
+- clear which clears the terminal of what was written
+- printNumberedGrid which prints the numbered grid
+- printGrid which prints the grid with the symbols entered by the players
+- checkWin which at each turn checks if a player has won
+- play the main function that calls all the functions described above, to manage the game
   
 ### Game started:
 At the start of the program a small introduction is made about the game and its purpose:
