@@ -21,3 +21,6 @@ Then the second player can enter his name and he will be automatically assigned 
 
 ![image](https://user-images.githubusercontent.com/59999571/168448047-6d9c8446-c4d5-4fa9-aa4d-02d8a73dac26.png)
 
+Before you start playing, you are reminded of how the grid works for inserting symbols:
+
+![image](https://user-images.githubusercontent.com/59999571/168448092-12059ec8-d12f-4f7c-b57d-3e0a8db9e208.png)
