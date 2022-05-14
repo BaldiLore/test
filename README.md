@@ -16,3 +16,8 @@ Then the first player can enter his name and choose one of the two symbols, O or
 There is an example if the player enter an invalid symbol:
 
 ![image](https://user-images.githubusercontent.com/59999571/168448010-a6e319af-2d98-4e3f-94e7-99323d494f7d.png)
+
+Then the second player can enter his name and he will be automatically assigned the remaining symbol:
+
+![image](https://user-images.githubusercontent.com/59999571/168448047-6d9c8446-c4d5-4fa9-aa4d-02d8a73dac26.png)
+
