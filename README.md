@@ -1,5 +1,5 @@
 # Tic-Tac-Toe in C
-### Video Demo:  https://www.youtube.com/watch?v=PXtcYTK-bQY&list=RDBxlmej0vAdw&index=15
+### Video Demo:  https://youtu.be/GbNZpgHm3qc
 
 ### Description: 
 For the final project I decided to develop in C a game very well known among children in Italy, I'm talking about "tris", known in English-speaking countries as tic-tac-toe.
