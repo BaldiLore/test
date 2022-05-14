@@ -1,5 +1,5 @@
 # Tic-Tac-Toe in C
-## Video Demo:  https://www.youtube.com/watch?v=PXtcYTK-bQY&list=RDBxlmej0vAdw&index=15
+### Video Demo:  https://www.youtube.com/watch?v=PXtcYTK-bQY&list=RDBxlmej0vAdw&index=15
 ### Description: 
   
   
