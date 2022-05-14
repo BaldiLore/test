@@ -29,7 +29,7 @@ One by one the players enter their symbol in the grid:
 
 ![image](https://user-images.githubusercontent.com/59999571/168448461-a8283328-8f37-4673-9c59-846f64d0aec3.png)
 
-A mistake a player could make is to insert his symbol in an already occupied cell, but the program notices this and makes him choose the cell again.
+A mistake a player could make is to insert his symbol in an already occupied cell or in a range not between 1 and 9, but the program notices this and makes him choose the cell again:
 
 ![image](https://user-images.githubusercontent.com/59999571/168448494-75dc1cce-69a2-4d56-981c-5136f2254144.png)
 
