@@ -7,7 +7,7 @@ For the final project I decided to develop in C a game very well known among chi
 ### Game started:
 At the start of the program a small introduction is made about the game and its purpose:
 
-![image](https://user-images.githubusercontent.com/59999571/168447769-0d0475ad-a84c-4750-89f0-f0afaeabd890.png)
+![image](https://user-images.githubusercontent.com/59999571/168448706-943b6cae-a127-4f54-9045-b3a64e25c57a.png)
 
 Then the first player can enter his name and choose one of the two symbols, O or X.
 
