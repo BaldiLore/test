@@ -24,3 +24,17 @@ Then the second player can enter his name and he will be automatically assigned 
 Before you start playing, you are reminded of how the grid works for inserting symbols:
 
 ![image](https://user-images.githubusercontent.com/59999571/168448092-12059ec8-d12f-4f7c-b57d-3e0a8db9e208.png)
+
+One by one the players enter their symbol in the grid:
+
+![image](https://user-images.githubusercontent.com/59999571/168448461-a8283328-8f37-4673-9c59-846f64d0aec3.png)
+
+A mistake a player could make is to insert his symbol in an already occupied cell, but the program notices this and makes him choose the cell again.
+
+![image](https://user-images.githubusercontent.com/59999571/168448494-75dc1cce-69a2-4d56-981c-5136f2254144.png)
+
+The game ends in two cases: if a player puts three symbols in a row and wins or if the grid fills with no rows of three of the same symbols, then it is a tie:
+
+![image](https://user-images.githubusercontent.com/59999571/168448591-b2de3bc8-5fa6-4818-8beb-9570fdc93a39.png)
+![image](https://user-images.githubusercontent.com/59999571/168448613-ca7198ab-ad99-4ad6-9522-0810245388f5.png)
+
